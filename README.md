@@ -34,6 +34,7 @@
 | **Data Processing**   | SQL, NoSQL, OLAP (ClickHouse)                                                |
 | **Architecture**      | Microservices, Event-Driven, REST APIs                                       |
 | **DevOps**            | Docker, CI/CD (GitHub Actions/Azure DevOps)                                  |
+| **Version Control**   | GitHub, Bitbucket, GitLab                                                    |
 
 ## 🔗 Connect With Me
 
@@ -42,6 +43,6 @@
 
 ## 💻 GitHub Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=YagudinAleksandr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YagudinAleksandr&layout=compact&theme=dark)
 
