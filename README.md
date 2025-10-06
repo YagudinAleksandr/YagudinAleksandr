@@ -44,5 +44,5 @@
 ## 💻 GitHub Stats
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=YagudinAleksandr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YagudinAleksandr&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YagudinAleksandr&layout=compact&theme=light)
 
