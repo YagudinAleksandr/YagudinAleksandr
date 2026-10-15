@@ -85,10 +85,6 @@ A set of reusable building blocks for .NET microservices, built around **DDD** a
   <img src="https://streak-stats.demolab.com?user=YagudinAleksandr&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YagudinAleksandr&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:512BD4&height=100&section=footer" />
